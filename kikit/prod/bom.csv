@@ -1,0 +1,8 @@
+Comment,Designator,Footprint,LCSC
+SMF6.0A,D1,acheron_Components:D_SOD-123,C708002
+ASMD1206-150,F1,Fuse:Fuse_1206_3216Metric,C135342
+TYPE-C-31-M12_13,J1,acheron_Connectors:TYPE-C-31-M-12,C165948
+X1224WRS-04-LPV01,J2,acheron_Connectors:MOLEX_781710004_MountingReliefs,C528030
+60R@100MHz,L1,Inductor_SMD:L_1206_3216Metric,C33600
+5.1k,"R1,R2",Resistor_SMD:R_0402_1005Metric,C138073
+TPD4E05U06DQAR,U1,acheron_Components:USON-10_2.5x1.0mm_P0.5mm,C138714

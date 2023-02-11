@@ -1,0 +1,31 @@
+Drill report for UDB-panel.kicad_pcb
+Created on Sat Feb 11 17:54:07 2023
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  In1.Cu                    in1
+    L3 :  In2.Cu                    in2
+    L4 :  B.Cu                      back
+
+
+Drill file 'UDB-panel.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.300mm  0.0118"  (225 holes)
+    T2  0.300mm  0.0118"  (250 holes)
+    T3  0.500mm  0.0197"  (125 holes)
+    T4  0.600mm  0.0236"  (100 holes)  (with 100 slots)
+    T5  2.200mm  0.0866"  (25 holes)
+
+    Total plated holes count 725
+
+
+Not plated through holes are merged with plated holes
+    unplated through holes:
+    =============================================================
+    T6  0.650mm  0.0256"  (50 holes)
+    T7  2.000mm  0.0787"  (3 holes)
+    T8  2.200mm  0.0866"  (75 holes)
+
+    Total unplated holes count 128
